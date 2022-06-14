@@ -1,0 +1,27 @@
+html{
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.big-container{
+    width: 100%;
+    height: 100vh;
+    background-color: #D5E0EF;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card-title{
+    font-weight: 700;
+    font-size: 120%;
+}
+
+.card-text{
+    font-size: 15px;
+    color: #92959F;
+    font-size: small;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
